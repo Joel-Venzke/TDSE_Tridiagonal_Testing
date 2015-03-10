@@ -1,0 +1,1 @@
+This repository is used to test out the use of CUDA FORTRAN for solving a tridiagonal matrix. The results will be used to accelerate code that solves the Time Dependent Schrodinger Equation (TDSE).
